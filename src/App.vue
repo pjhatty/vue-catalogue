@@ -1,6 +1,5 @@
 <template>
   <div id="app" class="container">
-    <img width="25%" src="./assets/logo.png">
     <HelloWorld/>
     <div class="panel panel-default">
       <div class="panel-heading">
