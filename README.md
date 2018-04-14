@@ -1,4 +1,4 @@
-# test-project
+# Catalogue
 
 > A Vue.js project
 
